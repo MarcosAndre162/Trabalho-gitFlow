@@ -1,0 +1,10 @@
+# Ignorar arquivos compilados Java
+*.class
+
+# Ignorar arquivos de configuração do Eclipse
+.settings/
+.classpath
+.project
+
+# Ignorar diretório de dependências
+lib/
